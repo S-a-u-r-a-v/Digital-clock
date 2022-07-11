@@ -1,0 +1,42 @@
+body {
+background: #efeeea;
+}
+                                                                                                
+.clock {   
+background-color: aquamarine;
+width: 400px;                    
+margin: 70px;      
+padding: 30px;      
+border: 2px solid black;   
+border-radius: 30px;                                  
+position: relative;
+top: 30%;
+left: 44%;
+transform: translateX(-50%) translateY(-40%);
+color: #1fa7c5;
+font-size: 60px;
+font-family: Montserrat;
+letter-spacing: 7px;
+                                                                                                
+}
+                                                                                                
+p {
+                                                                                     
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+position: relative;
+top: 50%;
+left: 37%;
+font-size: 50px;
+color: red;
+}
+
+:hover{
+color: rgb(85, 107, 51);
+
+
+}
+
+
+
+
+                                                                                                 
